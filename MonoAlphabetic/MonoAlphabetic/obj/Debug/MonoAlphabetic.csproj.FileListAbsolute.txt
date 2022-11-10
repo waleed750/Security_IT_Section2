@@ -1,0 +1,9 @@
+c:\users\mido\documents\visual studio 2015\Projects\MonoAlphabetic\MonoAlphabetic\bin\Debug\MonoAlphabetic.exe.config
+c:\users\mido\documents\visual studio 2015\Projects\MonoAlphabetic\MonoAlphabetic\bin\Debug\MonoAlphabetic.exe
+c:\users\mido\documents\visual studio 2015\Projects\MonoAlphabetic\MonoAlphabetic\bin\Debug\MonoAlphabetic.pdb
+c:\users\mido\documents\visual studio 2015\Projects\MonoAlphabetic\MonoAlphabetic\obj\Debug\MonoAlphabetic.csprojResolveAssemblyReference.cache
+c:\users\mido\documents\visual studio 2015\Projects\MonoAlphabetic\MonoAlphabetic\obj\Debug\MonoAlphabetic.Form1.resources
+c:\users\mido\documents\visual studio 2015\Projects\MonoAlphabetic\MonoAlphabetic\obj\Debug\MonoAlphabetic.Properties.Resources.resources
+c:\users\mido\documents\visual studio 2015\Projects\MonoAlphabetic\MonoAlphabetic\obj\Debug\MonoAlphabetic.csproj.GenerateResource.Cache
+c:\users\mido\documents\visual studio 2015\Projects\MonoAlphabetic\MonoAlphabetic\obj\Debug\MonoAlphabetic.exe
+c:\users\mido\documents\visual studio 2015\Projects\MonoAlphabetic\MonoAlphabetic\obj\Debug\MonoAlphabetic.pdb
